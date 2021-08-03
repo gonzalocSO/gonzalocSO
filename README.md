@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gonzalocSO or Gonzalo Muruzeta Jurjevic
+- 👀 I’m interested in MLOps. DevSecOps, ML, CI/CD, Kubernetes
+- 🌱 I’m currently learning python and go
+- 💞️ I’m looking to collaborate on what i can 
+- 📫 How to reach me teams :D
